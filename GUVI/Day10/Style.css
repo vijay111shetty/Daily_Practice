@@ -1,0 +1,10 @@
+.Parent{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(87, 196, 215);
+    overflow-x: scroll;
+}
+.Square{
+    width: 100%;
+    overflow-y: scroll;
+}

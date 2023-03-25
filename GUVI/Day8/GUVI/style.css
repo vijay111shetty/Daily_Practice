@@ -1,0 +1,29 @@
+
+.circel{
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    background-color: black;
+}
+
+#circle-1{
+    background-color: yellow;
+}
+
+#circle-2{
+    background-color: pink !important
+}
+
+.rectangle{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.row{
+    display: inline-block;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
